@@ -1,0 +1,21 @@
+timestamp,session_id,user_question,chatbot_response
+2026-10-28T13:03:01,bc491c01,What is Python?,"Python is a popular programming language used for various purposes such as web development, data analysis, artificial intelligence, and more. It's known for its simplicity, readability, and versatility.
+
+Here are some examples of what you can do with Python:
+
+1. **Web Development**: Python is widely used to build websites and web applications using popular frameworks like Django and Flask. You can create web servers, manage databases, and handle user requests.
+2. **Data Analysis**: Python has libraries like Pandas and NumPy that make it easy to work with data in various formats, including tables, lists, and matrices. You can perform data cleaning, analysis, and visualization tasks.
+3. **Artificial Intelligence**: Python has machine learning libraries like TensorFlow and scikit-learn that allow you to build and train AI models. You can use them to classify images, predict outcomes, and more.
+4. **Automation**: Python is often used for automation tasks, such as automating repetitive tasks, creating scripts, and integrating different systems.
+
+Python is an easy-to-learn language, and there are many resources available to help you get started. Some popular Python libraries and tools include:
+
+* **NumPy**: for numerical computations
+* **Pandas**: for data manipulation and analysis
+* **Scikit-learn**: for machine learning
+* **requests**: for web requests
+* **sqlite3**: for database management
+
+Overall, Python is a great language to learn for beginners and professionals alike, and it's widely used in many industries.
+
+Do you have any specific questions about Python or would you like to know more about its applications?"
